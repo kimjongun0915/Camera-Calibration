@@ -27,7 +27,6 @@
 
 ## 🧾 입력 설정
 
-```python
 video_file = 'D:/python/calibrate_camera/chessboard.mp4'
 board_pattern = (6, 8)         # 체스보드 내부 코너 개수
 board_cellsize = 0.025         # 한 칸의 실제 크기 (m 또는 cm 등)
