@@ -16,4 +16,4 @@
 
 ## 🎥 실습 영상
 
-[실습 영상 보러가기](https://youtu.be/j1Sv2sFp-LA)
+[![실습 영상](https://img.youtube.com/vi/j1Sv2sFp-LA/0.jpg)](https://youtu.be/j1Sv2sFp-LA)
